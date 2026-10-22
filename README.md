@@ -328,15 +328,15 @@ def setup_camera(self):
 
 ### Математические основы
 
-- Фрид Д., Уленбек К. *Инстантоны и четырехмерные многообразия*. — М.: Мир, 1988. — 272 с. [citation:3][citation:6]
-- Владимиров Ю. С. *Геометрофизика*. — М.: Бином. Лаборатория знаний, 2005. — 600 с. [citation:9]
-- Samuelson G. *Math Moments – Finding Directions in 4-D* / Dr. Gary Samuelson (блог) [citation:4]
+- Фрид Д., Уленбек К. *Инстантоны и четырехмерные многообразия*. — М.: Мир, 1988. — 272 с. 
+- Владимиров Ю. С. *Геометрофизика*. — М.: Бином. Лаборатория знаний, 2005. — 600 с. 
+- Samuelson G. *Math Moments – Finding Directions in 4-D* / Dr. Gary Samuelson (блог)
 
 ### Визуализация и программирование
 
-- [Interactive 4D Hypercube Visualization](https://github.com/D4YonSoundcloud/Interactive-4D-Hypercube-Rotation-Projection-Visualization) — Three.js, WebGL [citation:5]
-- [4d-visualizer](https://github.com/Sir-CussFreq/4d-visualizer) — Python, визуализация 4D-политопов [citation:8]
-- [Tak4D](https://www.raktres.net/tak4d/) — инструмент для 4D-визуализации [citation:10]
+- [Interactive 4D Hypercube Visualization](https://github.com/D4YonSoundcloud/Interactive-4D-Hypercube-Rotation-Projection-Visualization) — Three.js, WebGL 
+- [4d-visualizer](https://github.com/Sir-CussFreq/4d-visualizer) — Python, визуализация 4D-политопов 
+- [Tak4D](https://www.raktres.net/tak4d/) — инструмент для 4D-визуализации 
 
 ### Физика высших измерений
 
