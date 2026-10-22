@@ -340,5 +340,5 @@ def setup_camera(self):
 
 ### Физика высших измерений
 
-- [4D Quantum Projection Theory](https://github.com/Mazen-zaino/4D-Quantum-Projection-Theory) (DOI: 10.5281/zenodo.15646962) [citation:1]
-- Razamat S. *Aspects of 4d Supersymmetric Dynamics and Geometry* — лекция [citation:7]
+- [4D Quantum Projection Theory](https://github.com/Mazen-zaino/4D-Quantum-Projection-Theory) (DOI: 10.5281/zenodo.15646962)
+- Razamat S. *Aspects of 4d Supersymmetric Dynamics and Geometry* — лекция 
